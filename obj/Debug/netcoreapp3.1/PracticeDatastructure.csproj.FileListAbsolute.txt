@@ -1,0 +1,13 @@
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.exe
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.deps.json
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.runtimeconfig.json
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.runtimeconfig.dev.json
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.dll
+C:\Users\jigar\source\repos\PracticeDatastructure\bin\Debug\netcoreapp3.1\PracticeDatastructure.pdb
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.csprojAssemblyReference.cache
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.AssemblyInfoInputs.cache
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.AssemblyInfo.cs
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.csproj.CoreCompileInputs.cache
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.dll
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.pdb
+C:\Users\jigar\source\repos\PracticeDatastructure\obj\Debug\netcoreapp3.1\PracticeDatastructure.genruntimeconfig.cache
