@@ -44,7 +44,7 @@ namespace PracticeDatastructure
         }
 
         // driver code 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int[] arr = { -7, 1, 5, 2, -4, 3, 0 };
             int arr_size = arr.Length;
