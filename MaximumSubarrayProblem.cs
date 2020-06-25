@@ -9,7 +9,7 @@ namespace PracticeDatastructure
 
     class MaximumSubarrayProblem
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             int[] a = { -2, -3, 4, -1, -2, 1, 5, -3 };
             int[] b = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
