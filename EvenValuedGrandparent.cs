@@ -34,6 +34,31 @@ namespace Demo
 
         /// <summary>
         /// Method to Sum of Nodes with Even-Valued Grandparent
+        /// Input:
+        ///           1
+        ///          / \
+        ///         3   8
+        ///            / \
+        ///           5   6
+        ///          /
+        ///         1
+
+        /// Output: 11
+        /// The only even nodes are 8 and 6 and
+        /// the sum of their children is 5 + 6 = 11.
+
+        /// Input:
+        ///          2
+        ///         / \
+        ///        3   8
+        ///       /   / \
+        ///      2   5   6
+        ///         /     \
+        ///        1       3
+
+        /// Output: 25
+        /// 3 + 8 + 5 + 6 + 3 = 25
+        /// 
         /// </summary>
         /// <param name="root">root of the tree</param>
         /// <returns>Sum of Nodes with Even-Valued Grandparent</returns>
