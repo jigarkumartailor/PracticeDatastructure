@@ -13,7 +13,7 @@ namespace Demo
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             TreeNode root = new TreeNode(6);
             root.left = new TreeNode(7);
