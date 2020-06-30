@@ -19,15 +19,15 @@ namespace PracticeDatastructure
                                     maxSubArraySum(b));
         }
 
-        static int maxSubArraySum(int[] a)
+        static int maxSubArraySum(int[] arr)
         {
-            int size = a.Length;
+            int size = arr.Length;
             int max_so_far = int.MinValue,
                 max_ending_here = 0;
 
             for (int i = 0; i < size; i++)
             {
-                max_ending_here = max_ending_here + a[i];
+                max_ending_here = max_ending_here + arr[i];
 
                 if (max_so_far < max_ending_here)
                     max_so_far = max_ending_here;
