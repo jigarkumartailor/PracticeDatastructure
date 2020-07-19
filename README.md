@@ -14,7 +14,7 @@
            /   \
           1     4
 
-  File Name: Binary_Search_Tree _BST.cs
+   File Name: Binary_Search_Tree _BST.cs
 
 
 2) Given an array of integers, find the equilibrium index
@@ -24,7 +24,7 @@
         3 is an equilibrium index, because:
         A[0] + A[1] + A[2] = A[4] + A[5] + A[6]
 
-  File Name: EquilibriumIndex.cs
+   File Name: EquilibriumIndex.cs
 
 3) Method to Sum of Nodes with Even-Valued Grandparent
 
