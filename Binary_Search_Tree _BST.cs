@@ -80,7 +80,7 @@ Not BST
         }
 
         /* Driver program to test above functions */
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             BinaryTree tree = new BinaryTree();
             tree.root = new Node(4);

@@ -83,9 +83,9 @@ class OnlyChildrenSum
         /* Let us create below tree  
                   1  
                 / | \  
-             2    3  4  
-            / \     / | \\  
-            5 6    7  8 9 10  
+             2    3  10  
+            / \     / | \  
+           9   9   5  6  6   
         */
 
         Node root = newNode(1);
